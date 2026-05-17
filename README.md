@@ -135,7 +135,5 @@ FIREBASE_PROJECT_ID=your_firebase_project_id
 
 ---
 
-## 📞 التواصل
-
-- الجامعة الأردنية — مادة الريادة والابتكار 2026
-- الشعبة 38 · المجموعة 3
+## 📞 التواصل  
+haneenrumman2@gmail.com
